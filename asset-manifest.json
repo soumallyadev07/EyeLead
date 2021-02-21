@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/EyeLead/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/EyeLead/static/js/main.84ad4c78.chunk.js",
-    "main.js.map": "/EyeLead/static/js/main.84ad4c78.chunk.js.map",
+    "main.js": "/EyeLead/static/js/main.c161177e.chunk.js",
+    "main.js.map": "/EyeLead/static/js/main.c161177e.chunk.js.map",
     "runtime-main.js": "/EyeLead/static/js/runtime-main.6dbbad52.js",
     "runtime-main.js.map": "/EyeLead/static/js/runtime-main.6dbbad52.js.map",
-    "static/js/2.c15ea2bd.chunk.js": "/EyeLead/static/js/2.c15ea2bd.chunk.js",
-    "static/js/2.c15ea2bd.chunk.js.map": "/EyeLead/static/js/2.c15ea2bd.chunk.js.map",
+    "static/js/2.a8049ece.chunk.js": "/EyeLead/static/js/2.a8049ece.chunk.js",
+    "static/js/2.a8049ece.chunk.js.map": "/EyeLead/static/js/2.a8049ece.chunk.js.map",
     "index.html": "/EyeLead/index.html",
     "static/css/main.7d180cbf.chunk.css.map": "/EyeLead/static/css/main.7d180cbf.chunk.css.map",
-    "static/js/2.c15ea2bd.chunk.js.LICENSE.txt": "/EyeLead/static/js/2.c15ea2bd.chunk.js.LICENSE.txt"
+    "static/js/2.a8049ece.chunk.js.LICENSE.txt": "/EyeLead/static/js/2.a8049ece.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6dbbad52.js",
-    "static/js/2.c15ea2bd.chunk.js",
+    "static/js/2.a8049ece.chunk.js",
     "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.84ad4c78.chunk.js"
+    "static/js/main.c161177e.chunk.js"
   ]
 }
