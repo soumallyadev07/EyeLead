@@ -53,6 +53,15 @@ function App() {
 
   return (
     <div className="App">
+      <h1 style={{
+        position: "absolute",
+        textAlign: "center",
+        marginLeft: "auto",
+        marginRight: "auto",
+        left: 0,
+        right: 0,
+        fontSize: 60,
+        color: "white"}}>EyeLead</h1>
       <header className="App-header">
         <Webcam
           ref={webcamRef}
